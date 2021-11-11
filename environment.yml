@@ -1,0 +1,16 @@
+name: pyglider-demo
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - pip
+  - xarray
+  - dask
+  - netcdf4
+  - pyyaml
+  - seawater
+  - scipy
+  - pytest
+  - jupyter
